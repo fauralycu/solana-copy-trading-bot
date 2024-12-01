@@ -15,7 +15,7 @@ The Solana Copy Trading Bot is designed to enhance your trading experience with 
 
 - **Multi-Platform Support**: Seamlessly integrates with popular DeFi platforms such as Raydium, Meteora, Pump.fun, Orca, and Jupiter Swap.
 - **Targeted Wallet Tracking**: Easily add specific wallet addresses to monitor and copy trades from.
-- **Real-Time Transaction Copying**: Quickly catch targeted accounts' transactions with a response time of just 10 seconds.
+- **Real-Time Transaction Copying**: Quickly catch targeted accounts' transactions in 1 second.
 - **Order Types Supported**: Execute basic buy and sell orders along with limit and Dollar-Cost Averaging (DCA) orders.
 - **Comprehensive Wallet Management**: Effectively manage multiple wallets within the application.
 - **Configurable Settings**: Tailor the bot's settings to suit your trading preferences.
