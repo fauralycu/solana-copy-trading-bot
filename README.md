@@ -8,7 +8,11 @@ For support or inquiries regarding this project, please feel free to reach out t
 - **Discord**: web3_wiza
 
 ---
-
+## Examples
+- Source Transaction
+https://solscan.io/tx/273qUYGHs94SzNqqAX8QAtrzx6E2BwtNyhaSAgXmZw8yTejQqfdYAkPc2DLz5Re7mmWC8Afq7Y6Y9tV1ZQMyWowD
+- Copied Transaction
+https://solscan.io/tx/3SenQnU4bY61rvjFZj2Fm9JTtRdVeSULBE7fyoGmRr8UM52gGa6Dz1hMrD8UDgj557Y4MKzdZZttctEX6HuzSoTn
 ## Features
 
 The Solana Copy Trading Bot is designed to enhance your trading experience with an array of powerful features:
