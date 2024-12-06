@@ -4,9 +4,7 @@
 
 For support or inquiries regarding this project, please feel free to reach out through the following platforms:
 
-- **Telegram**: [@web3wiza](https://t.me/web3wiza)
-- **Discord**: web3_wiza
-
+Telegram: https://t.me/magicsolwiz Discord: m_solwiz
 ---
 ## Examples
 - Source Transaction
